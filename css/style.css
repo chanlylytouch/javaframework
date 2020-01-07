@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 600px;
+}
+button{
+    border: none;
+    outline: none;
+    padding: 10px;
+    color: blue;
+    background:pink;
+    border-radius: 40px;
+}
+#result{
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    
+}
