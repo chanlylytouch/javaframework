@@ -1,0 +1,39 @@
+body{
+    background: url(soft-blue.png);
+}
+
+.container{
+    width: 350px;
+    background: rgb(54, 50, 50);
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px
+}
+input[type="button"]{
+    width: 60px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: rgb(65, 65, 85);
+    margin: 10px 10px;
+    box-shadow: 3px 3px 5px; 
+    cursor: pointer;
+}
+.col{
+    margin: 0 auto;
+    width: 330px;
+    height: 80px;
+    background: rgb(226, 213, 213);
+    margin-top: 10px;
+    border: 2px solid ;
+}
+.row{
+    width: 350px;
+    height: 100px;
+    display: flex;
+    background: rgb(141, 33, 33);
+    border-radius: 10px;
+}
